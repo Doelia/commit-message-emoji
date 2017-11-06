@@ -35,6 +35,7 @@ Tooling | [🔧 Wrench](http://emojipedia.org/wrench/) | `:wrench:`
 Tests | [🚨 Police Cars Revolving Light](http://emojipedia.org/police-cars-revolving-light/) | `:rotating_light:`
 Deprecation | [💩 Pile of Poo](http://emojipedia.org/pile-of-poo/) | `:poop:`
 Work In Progress (WIP) | [🚧 Construction Sign](http://emojipedia.org/construction-sign/) | `:construction:`
+Upgrade lib | [🆙 UP!](https://emojipedia.org/squared-up-with-exclamation-mark/) | `:up:`
 
 ## Using Emoji is Hard! 😡
 
