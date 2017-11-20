@@ -36,6 +36,7 @@ Tests | [🚨 Police Cars Revolving Light](http://emojipedia.org/police-cars-rev
 Deprecation | [💩 Pile of Poo](http://emojipedia.org/pile-of-poo/) | `:poop:`
 Work In Progress (WIP) | [🚧 Construction Sign](http://emojipedia.org/construction-sign/) | `:construction:`
 Upgrade lib | [🆙 UP!](https://emojipedia.org/squared-up-with-exclamation-mark/) | `:up:`
+Typography fix | [📝Memo](https://emojipedia.org/memo/) | `:pencil:`
 
 ## Using Emoji is Hard! 😡
 
