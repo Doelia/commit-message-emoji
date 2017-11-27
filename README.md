@@ -31,11 +31,11 @@ Documentation | [📚 Books](http://emojipedia.org/books/) | `:books:`
 Internationalization | [🌐 Globe With Meridians](http://emojipedia.org/globe-with-meridians/) | `:globe_with_meridians:`
 Performance | [🐎 Horse](http://emojipedia.org/horse/) | `:horse_racing:`
 Cosmetic | [💄 Lipstick](http://emojipedia.org/lipstick/) | `:lipstick:`
-Tooling | [🔧 Wrench](http://emojipedia.org/wrench/) | `:wrench:`
+Configuration | [🔧 Wrench](http://emojipedia.org/wrench/) | `:wrench:`
 Tests | [🚨 Police Cars Revolving Light](http://emojipedia.org/police-cars-revolving-light/) | `:rotating_light:`
 Deprecation | [💩 Pile of Poo](http://emojipedia.org/pile-of-poo/) | `:poop:`
 Work In Progress (WIP) | [🚧 Construction Sign](http://emojipedia.org/construction-sign/) | `:construction:`
-Upgrade lib | [🆙 UP!](https://emojipedia.org/squared-up-with-exclamation-mark/) | `:up:`
+Add/Update lib | [📦 UP!](https://emojipedia.org/package/) | `:package:`
 Typography fix | [📝Memo](https://emojipedia.org/memo/) | `:pencil:`
 
 ## Using Emoji is Hard! 😡
