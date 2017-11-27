@@ -35,7 +35,7 @@ Configuration | [🔧 Wrench](http://emojipedia.org/wrench/) | `:wrench:`
 Tests | [🚨 Police Cars Revolving Light](http://emojipedia.org/police-cars-revolving-light/) | `:rotating_light:`
 Deprecation | [💩 Pile of Poo](http://emojipedia.org/pile-of-poo/) | `:poop:`
 Work In Progress (WIP) | [🚧 Construction Sign](http://emojipedia.org/construction-sign/) | `:construction:`
-Add/Update lib | [📦 UP!](https://emojipedia.org/package/) | `:package:`
+Add/Update lib | [📦 Package](https://emojipedia.org/package/) | `:package:`
 Typography fix | [📝Memo](https://emojipedia.org/memo/) | `:pencil:`
 
 ## Using Emoji is Hard! 😡
